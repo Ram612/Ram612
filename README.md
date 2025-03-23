@@ -1,8 +1,18 @@
-- 👋 Hi, I’m Ram aspiring fullstack developer.
-- 👀 I’m interested in creating usefull mobile apps and sass based applications.
-- 🌱 I’m currently learning AI | ML.
-- 💞️ I’m looking to collaborate with all the techies.
-- 📫 How to reach me ... ram612fullstack@gmail.com
+🚀 Technical Lead | AI & Cloud Architect | Full-Stack Developer
+
+💡 Passionate about AI-driven automation, cloud solutions, and scalable applications. Exploring AI agents for intelligent decision-making.
+
+🏆 Expertise:
+
+Cloud: AWS, Azure
+
+AI/ML: Computer Vision, Deep Learning, ERP Automation
+
+Full-Stack: 27+ apps, Odoo (10-17), SaaS & CRM
+
+Certifications: Snowflake, Databricks
+
+📌 Leadership: Led teams, built enterprise-grade solutions, automated workflow
 
 <!---
 Ram612/Ram612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
